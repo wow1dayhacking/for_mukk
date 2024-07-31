@@ -1,0 +1,7 @@
+[
+  { "nick_name": "A사", "clear_time": "29:27", "hints_used":0, "rank" : "s", "stage_name" : "univ_theme"}, 
+  { "nick_name": "B사", "clear_time": "59:09", "hints_used":1, "rank" : "b",  "stage_name" : "univ_theme"}, 
+  { "nick_name": "C사", "clear_time": "53:21", "hints_used":2, "rank" : "c",  "stage_name" : "univ_theme"},
+  { "nick_name": "D사", "clear_time": "60:00", "hints_used":2, "rank" : "c",  "stage_name" : "univ_theme"},
+  { "nick_name": "E사", "clear_time": "60:00", "hints_used":2, "rank" : "c",  "stage_name" : "univ_theme"}
+]
